@@ -1,0 +1,20 @@
+
+#main{
+	border:solid 4px black;
+	width:500px;
+	height:250px;
+	border-radius:5px;
+}
+#main tr{
+	background:#F0F0F0;
+	
+}
+#main tr th{
+	padding:4px;
+	font-family:tahoma;
+	
+	
+}
+#main_row{
+	background:khaki;
+}
